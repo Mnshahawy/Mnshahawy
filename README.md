@@ -9,7 +9,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Mnshahawy.mnshahawy)
 <br />
 
-I'm Mohamed Elshahawi, pronounced MOH-HAH-med EL-SHAH-hah-wee. I was born and raised in Egypt, and I moved to the United States :us: over seven years ago. I came here pursuing eduction and to explore what the US has to offer. I enjoy writing code and solving problems. I graduated Summer 2021 with a Bachelor's of Science in Computer Engineering, and I'm looking for a great team to join and learn from.
+I'm Mohamed Elshahawi, pronounced MOH-HAH-med EL-SHAH-hah-wee. I was born and raised in Egypt, and I moved to the United States :us: over seven years ago. I came here pursuing eduction and to explore what the US has to offer. I enjoy writing code and solving problems. I graduated Summer 2021 with a Bachelor of Science in Computer Engineering, and I'm looking for a great team to join and learn from.
 
 I recently concluded an internship with a promising startup; in my internship, I worked on the following:
 
